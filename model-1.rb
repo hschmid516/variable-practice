@@ -12,3 +12,9 @@ am_happy = true
 
 states = ['Maine', 'Colorado', 'California']
 colors = ['blue', 'yellow', 'red']
+
+players_hash = {
+  name: 'jones'
+  name: 'newton'
+  name: 'agholor'
+}
