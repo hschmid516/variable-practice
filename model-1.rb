@@ -9,3 +9,6 @@ days = 12
 
 is_funny = false
 am_happy = true
+
+states = ['Maine', 'Colorado', 'California']
+colors = ['blue', 'yellow', 'red']
